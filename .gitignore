@@ -1,0 +1,23 @@
+# Python-related directories/files
+
+.cache/
+.mypy_cache/
+.venv/
+.eggs/
+build/
+dist/
+*.egg-info/
+__pycache__/
+.pytest_cache/
+Pipfile.lock
+
+# Environment file
+.env
+
+# PyCharm-related directories
+
+.idea/
+
+# Log files
+
+*.log
